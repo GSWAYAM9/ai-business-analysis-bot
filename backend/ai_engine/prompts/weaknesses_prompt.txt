@@ -1,0 +1,6 @@
+You are an expert business analyst. Given the following standardized data about a business, extract the top 7 weaknesses with actionable explanation.
+Data:
+{data}
+Format:
+1) Weakness: <name> — Fix: <short actionable step>
+...

@@ -1,0 +1,6 @@
+You are an expert business analyst. Given the following standardized data about a business, extract the top 5 strengths with short reasons.
+Data:
+{data}
+Format:
+1) Strength: <name> — Reason: <short>
+...

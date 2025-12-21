@@ -1,0 +1,9 @@
+Summarize the business into a structured summary containing:
+- Name
+- Niche
+- Target audience
+- Brand Health Score (0-100)
+- Engagement Score (0-100)
+- Quick 3-line pitch for how to improve
+Data:
+{data}

@@ -1,0 +1,10 @@
+You are an expert growth consultant. Provide a prioritized 30/60/90 day action plan with specific tactics tailored to the business data.
+Data:
+{data}
+Format:
+- 30 days:
+  - item: explanation
+- 60 days:
+  - item: explanation
+- 90 days:
+  - item: explanation

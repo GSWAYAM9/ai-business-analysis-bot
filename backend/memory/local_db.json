@@ -1,0 +1,156 @@
+{
+  "analyses": [
+    {
+      "url": "https://example.com",
+      "analysis": {
+        "data": {
+          "platform": "website",
+          "url": "https://example.com",
+          "name": "Example Domain",
+          "description": "",
+          "followers": null,
+          "posts": [],
+          "samples": [
+            "Example Domain",
+            "This domain is for use in documentation examples without needing permission. Avoid use in operations.Learn more",
+            "Learn more"
+          ],
+          "metadata": {}
+        },
+        "strengths": "ANALYSIS (fallback):\n- Followers present but engagement low.\n- Strengths: Visuals, product clarity.\n- Weaknesses: CTA, funnel, reels/shorts.\n- Recommendations: Improve bio, add reels, run micro-influencer campaigns.",
+        "weaknesses": "ANALYSIS (fallback):\n- Followers present but engagement low.\n- Strengths: Visuals, product clarity.\n- Weaknesses: CTA, funnel, reels/shorts.\n- Recommendations: Improve bio, add reels, run micro-influencer campaigns.",
+        "improvements": "ANALYSIS (fallback):\n- Followers present but engagement low.\n- Strengths: Visuals, product clarity.\n- Weaknesses: CTA, funnel, reels/shorts.\n- Recommendations: Improve bio, add reels, run micro-influencer campaigns.",
+        "summary": "ANALYSIS (fallback):\n- Followers present but engagement low.\n- Strengths: Visuals, product clarity.\n- Weaknesses: CTA, funnel, reels/shorts.\n- Recommendations: Improve bio, add reels, run micro-influencer campaigns.",
+        "scores": {
+          "brand_health": 56,
+          "engagement": 50
+        },
+        "influencer_suggestions": []
+      }
+    },
+    {
+      "url": "https://example.com",
+      "analysis": {
+        "data": {
+          "platform": "website",
+          "url": "https://example.com",
+          "name": "Example Domain",
+          "description": "",
+          "followers": null,
+          "posts": [],
+          "samples": [
+            "Example Domain",
+            "This domain is for use in documentation examples without needing permission. Avoid use in operations.Learn more",
+            "Learn more"
+          ],
+          "metadata": {}
+        },
+        "strengths": "ANALYSIS (fallback):\n- Followers present but engagement low.\n- Strengths: Visuals, product clarity.\n- Weaknesses: CTA, funnel, reels/shorts.\n- Recommendations: Improve bio, add reels, run micro-influencer campaigns.",
+        "weaknesses": "ANALYSIS (fallback):\n- Followers present but engagement low.\n- Strengths: Visuals, product clarity.\n- Weaknesses: CTA, funnel, reels/shorts.\n- Recommendations: Improve bio, add reels, run micro-influencer campaigns.",
+        "improvements": "ANALYSIS (fallback):\n- Followers present but engagement low.\n- Strengths: Visuals, product clarity.\n- Weaknesses: CTA, funnel, reels/shorts.\n- Recommendations: Improve bio, add reels, run micro-influencer campaigns.",
+        "summary": "ANALYSIS (fallback):\n- Followers present but engagement low.\n- Strengths: Visuals, product clarity.\n- Weaknesses: CTA, funnel, reels/shorts.\n- Recommendations: Improve bio, add reels, run micro-influencer campaigns.",
+        "scores": {
+          "brand_health": 56,
+          "engagement": 50
+        },
+        "influencer_suggestions": []
+      }
+    },
+    {
+      "url": "https://aligneye.com",
+      "analysis": {
+        "data": {
+          "platform": "website",
+          "url": "https://aligneye.com",
+          "name": "Home | Aligneye",
+          "description": "",
+          "followers": null,
+          "posts": [],
+          "samples": [],
+          "metadata": {}
+        },
+        "strengths": "ANALYSIS (fallback):\n- Followers present but engagement low.\n- Strengths: Visuals, product clarity.\n- Weaknesses: CTA, funnel, reels/shorts.\n- Recommendations: Improve bio, add reels, run micro-influencer campaigns.",
+        "weaknesses": "ANALYSIS (fallback):\n- Followers present but engagement low.\n- Strengths: Visuals, product clarity.\n- Weaknesses: CTA, funnel, reels/shorts.\n- Recommendations: Improve bio, add reels, run micro-influencer campaigns.",
+        "improvements": "ANALYSIS (fallback):\n- Followers present but engagement low.\n- Strengths: Visuals, product clarity.\n- Weaknesses: CTA, funnel, reels/shorts.\n- Recommendations: Improve bio, add reels, run micro-influencer campaigns.",
+        "summary": "ANALYSIS (fallback):\n- Followers present but engagement low.\n- Strengths: Visuals, product clarity.\n- Weaknesses: CTA, funnel, reels/shorts.\n- Recommendations: Improve bio, add reels, run micro-influencer campaigns.",
+        "scores": {
+          "brand_health": 50,
+          "engagement": 50
+        },
+        "influencer_suggestions": []
+      }
+    },
+    {
+      "url": "https://aligneye.com",
+      "analysis": {
+        "data": {
+          "platform": "website",
+          "url": "https://aligneye.com",
+          "name": "Home | Aligneye",
+          "description": "",
+          "followers": null,
+          "posts": [],
+          "samples": [],
+          "metadata": {}
+        },
+        "strengths": "ANALYSIS (fallback):\n- Followers present but engagement low.\n- Strengths: Visuals, product clarity.\n- Weaknesses: CTA, funnel, reels/shorts.\n- Recommendations: Improve bio, add reels, run micro-influencer campaigns.",
+        "weaknesses": "ANALYSIS (fallback):\n- Followers present but engagement low.\n- Strengths: Visuals, product clarity.\n- Weaknesses: CTA, funnel, reels/shorts.\n- Recommendations: Improve bio, add reels, run micro-influencer campaigns.",
+        "improvements": "ANALYSIS (fallback):\n- Followers present but engagement low.\n- Strengths: Visuals, product clarity.\n- Weaknesses: CTA, funnel, reels/shorts.\n- Recommendations: Improve bio, add reels, run micro-influencer campaigns.",
+        "summary": "ANALYSIS (fallback):\n- Followers present but engagement low.\n- Strengths: Visuals, product clarity.\n- Weaknesses: CTA, funnel, reels/shorts.\n- Recommendations: Improve bio, add reels, run micro-influencer campaigns.",
+        "scores": {
+          "brand_health": 50,
+          "engagement": 50
+        },
+        "influencer_suggestions": []
+      }
+    },
+    {
+      "url": "https://www.instagram.com/aligneye/",
+      "analysis": {
+        "data": {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/aligneye/",
+          "name": "AlignEye (@aligneye) • Instagram photos and videos",
+          "description": "102 Followers, 22 Following, 58 Posts - See Instagram photos and videos from AlignEye (@aligneye)",
+          "followers": 0,
+          "posts": [],
+          "samples": [],
+          "metadata": {}
+        },
+        "strengths": "ANALYSIS (fallback):\n- Followers present but engagement low.\n- Strengths: Visuals, product clarity.\n- Weaknesses: CTA, funnel, reels/shorts.\n- Recommendations: Improve bio, add reels, run micro-influencer campaigns.",
+        "weaknesses": "ANALYSIS (fallback):\n- Followers present but engagement low.\n- Strengths: Visuals, product clarity.\n- Weaknesses: CTA, funnel, reels/shorts.\n- Recommendations: Improve bio, add reels, run micro-influencer campaigns.",
+        "improvements": "ANALYSIS (fallback):\n- Followers present but engagement low.\n- Strengths: Visuals, product clarity.\n- Weaknesses: CTA, funnel, reels/shorts.\n- Recommendations: Improve bio, add reels, run micro-influencer campaigns.",
+        "summary": "ANALYSIS (fallback):\n- Followers present but engagement low.\n- Strengths: Visuals, product clarity.\n- Weaknesses: CTA, funnel, reels/shorts.\n- Recommendations: Improve bio, add reels, run micro-influencer campaigns.",
+        "scores": {
+          "brand_health": 60,
+          "engagement": 50
+        },
+        "influencer_suggestions": []
+      }
+    },
+    {
+      "url": "https://www.instagram.com/aligneye/",
+      "analysis": {
+        "data": {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/aligneye/",
+          "name": "AlignEye (@aligneye) • Instagram photos and videos",
+          "description": "102 Followers, 22 Following, 58 Posts - See Instagram photos and videos from AlignEye (@aligneye)",
+          "followers": 0,
+          "posts": [],
+          "samples": [],
+          "metadata": {}
+        },
+        "strengths": "ANALYSIS (fallback):\n- Followers present but engagement low.\n- Strengths: Visuals, product clarity.\n- Weaknesses: CTA, funnel, reels/shorts.\n- Recommendations: Improve bio, add reels, run micro-influencer campaigns.",
+        "weaknesses": "ANALYSIS (fallback):\n- Followers present but engagement low.\n- Strengths: Visuals, product clarity.\n- Weaknesses: CTA, funnel, reels/shorts.\n- Recommendations: Improve bio, add reels, run micro-influencer campaigns.",
+        "improvements": "ANALYSIS (fallback):\n- Followers present but engagement low.\n- Strengths: Visuals, product clarity.\n- Weaknesses: CTA, funnel, reels/shorts.\n- Recommendations: Improve bio, add reels, run micro-influencer campaigns.",
+        "summary": "ANALYSIS (fallback):\n- Followers present but engagement low.\n- Strengths: Visuals, product clarity.\n- Weaknesses: CTA, funnel, reels/shorts.\n- Recommendations: Improve bio, add reels, run micro-influencer campaigns.",
+        "scores": {
+          "brand_health": 60,
+          "engagement": 50
+        },
+        "influencer_suggestions": []
+      }
+    }
+  ]
+}
